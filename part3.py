@@ -12,7 +12,6 @@ Enter a number or enter 0 to stop: 6
 Enter a number or enter 0 to stop: 7
 Enter a number or enter 0 to stop: 0
 Average: 6.0
-
 '''
 num = int(input("Enter a number or enter 0 to stop:"))
 total = 0
