@@ -10,7 +10,6 @@ Enter a number or enter 0 to stop: 3
 Enter a number or enter 0 to stop: 10
 Enter a number or enter 0 to stop: 0
 Product: 60
-
 '''
 num = int(input("Enter a number or enter 0 to stop: "))
 product = 1
